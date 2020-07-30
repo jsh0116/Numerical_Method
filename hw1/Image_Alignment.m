@@ -1,4 +1,4 @@
-function [T] = hw1_transform(pA, pB)
+function [T] = Image_Alignment(pA, pB)
 % hw1_transform: compute transformation from A to B
 
 % Number of points

@@ -1,4 +1,4 @@
-function [L, U] = hw1_lu(A)
+function [L, U] = LU_decomposition(A)
 % hw1_lu: LU factorization without pivoting
 % input
 %   A : input square & invertible matrix
