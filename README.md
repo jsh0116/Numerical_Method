@@ -33,4 +33,11 @@ Also, you can see that Image 1 is converted similarly to Image 2 as shown below.
 
 ![image](https://user-images.githubusercontent.com/62865808/88929072-94c36100-d2b4-11ea-913c-371e9996fd34.png)
 
-### Result
+### My_Result
+
+![image](https://user-images.githubusercontent.com/62865808/88930055-ecae9780-d2b5-11ea-9674-c426efcef64d.png)
+
+![image](https://user-images.githubusercontent.com/62865808/88930149-0b149300-d2b6-11ea-9c09-69422ff9dab5.png)
+
+![image](https://user-images.githubusercontent.com/62865808/88930169-123ba100-d2b6-11ea-8fb8-6315f4104095.png)
+
